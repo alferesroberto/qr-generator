@@ -25,9 +25,7 @@ o cualquier recurso digital que necesite permanecer accesible.
 ## 🚀 Demo en vivo
 
 👉 **Live Demo:**  
-https://TU-USUARIO.github.io/qr-libre/
-
-> Reemplaza `TU-USUARIO` por tu usuario real de GitHub
+https://alferesroberto.github.io/qr-generator/
 
 ---
 
@@ -45,5 +43,5 @@ https://TU-USUARIO.github.io/qr-libre/
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/TU-USUARIO/qr-libre.git
+git clone https://alferesroberto.github.io/qr-generator/
 cd qr-libre
